@@ -6,6 +6,5 @@ public class Main {
 
         System.out.println("hello word");
         System.out.println("hello word");
-        System.out.print("nihao ");
     }
 }
